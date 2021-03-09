@@ -29,7 +29,7 @@
                 aria-label="First group"
               >
                 <button class="btn btn-info">Actualizar</button>
-                <button class="btn btn-success">Eliminar</button>
+                <button class="btn btn-danger">Eliminar</button>
               </div>
             </td>
           </template>
